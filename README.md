@@ -2,7 +2,7 @@
 
 Meu nome é Taian Venuto, sou Brasileira.
 
-Estou cursando o 3º ano do ensino médio. profissionalizante do curso de Informática 👩🏼‍💻
+Estou cursando o 3º ano do ensino médio profissionalizante do curso de Informática 👩🏼‍💻
 
 - Adoro sempre aprender coisas novas, apaixonada por filmes de terror e ficção cientifica. E jogo nos tempos livres 👾
 
