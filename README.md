@@ -3,7 +3,9 @@
 
 <p align="right">
   <img src="https://c.tenor.com/nlGcQWb4MisAAAAC/piske-usagi.gif" width="200">
-Atualmente estou cusando Análise e Desenvolvimento de Sistemas na faculdade 👩🏼‍💻
+  </p>
+<p aling="left">
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade 👩🏼‍💻
 
 📌 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logoColor=white&link=www.linkedin.com/in/taian-r-castro-venuto-a06961197)
 
