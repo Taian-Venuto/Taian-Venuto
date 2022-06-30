@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://tenor.com/view/piske-usagi-pc-laptop-computer-gif-15998845" width="350">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://tenor.com/view/piske-usagi-pc-laptop-computer-gif-15998845](https://c.tenor.com/nlGcQWb4MisAAAAC/piske-usagi.gif" width="350">
 
 </p>
 
