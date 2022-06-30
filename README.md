@@ -1,9 +1,8 @@
 ## Olá, me chamo Taian ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<p align="center">
-  <img src="https://c.tenor.com/nlGcQWb4MisAAAAC/piske-usagi.gif" width="350">
-
+<p align="right">
+  <img src="https://c.tenor.com/nlGcQWb4MisAAAAC/piske-usagi.gif" width="200">
 </p>
 
 Atualmente estou cusando Análise e Desenvolvimento de Sistemas na faculdade 👩🏼‍💻
