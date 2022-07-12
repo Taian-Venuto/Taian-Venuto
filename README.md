@@ -8,7 +8,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade �
 <p align="Left">
   <img src="https://c.tenor.com/nlGcQWb4MisAAAAC/piske-usagi.gif" width="130">
   </p>
-### Ferramentas e Tecnologias ✨
+Ferramentas e Tecnologias ✨
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
 
